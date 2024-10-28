@@ -1,4 +1,4 @@
-PhD candidate at Department of Physiology, Development and Neuroscience, University of Cambridge
+PhD candidate at the Department of Physiology, Development and Neuroscience, University of Cambridge
 
 <!---
 Koushouu/Koushouu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
