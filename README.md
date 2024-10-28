@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Koushouu
-- 👀 I’m interested in explaning biophenomena with physics and mathematics
-- 🌱 I’m currently learning algorithm design and integrated circuit design
-- 📫 How to reach me: email = kou12301230@gmail.com
+PhD candidate at Department of Physiology, Development and Neuroscience, University of Cambridge
 
 <!---
 Koushouu/Koushouu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
